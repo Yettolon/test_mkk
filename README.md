@@ -330,6 +330,7 @@ payments.exchange
         ▼
  payments.dlq
 ```
+<img width="1112" height="162" alt="image" src="https://github.com/user-attachments/assets/d984fa80-6dc5-42fd-803d-3357ab6d684f" />
 
 ---
 
