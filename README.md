@@ -354,6 +354,20 @@ git clone git@github.com:Yettolon/test_mkk.git
 cd test_mkk
 ```
 
+### Makefile
+
+Для удобства основные команды проекта доступны через `Makefile`:
+
+```bash
+make up   # запуск всех сервисов через Docker Compose
+make down # остановка и удаление контейнеров
+make logs # просмотр логов API и consumer
+make test # запуск тестов
+```
+
+Также можно выполнять команды напрямую через `docker compose`, `pytest` и `alembic`.
+
+
 ### Docker Compose
 
 ```bash
